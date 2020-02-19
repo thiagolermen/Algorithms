@@ -1,7 +1,7 @@
 # Algorithms and Data Structures
 ## About the project
 
-## Running a algorithm
+## Running an algorithm
 
 ## Mathematics
 
