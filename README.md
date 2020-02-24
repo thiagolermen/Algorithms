@@ -6,6 +6,7 @@
 ## Mathematics
 
 ## Graph Theory
+* [Dijkstra's Shortest Path (priority queue)] (https://github.com/thiagolermen/Algorithms/blob/master/src/graph-theory/DijkstrasShortestPath.cpp)
 
 ## Linear Algebra
 
