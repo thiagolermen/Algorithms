@@ -12,7 +12,8 @@
 * [Transpose Of A Matrix](https://github.com/thiagolermen/Algorithms/blob/master/src/linear-algebra/TransposeOfAMatrix.cpp)
 
 ## Search Algorithms
-
+* [Binary Sort (recursive)](https://github.com/thiagolermen/Algorithms/blob/master/src/search/BinarySearch(recursive).cpp) - **O(log n)**
+## Data Structures
 ## Sorting Algorithms
 * [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - **O(n²)**
 ## Data Structures
