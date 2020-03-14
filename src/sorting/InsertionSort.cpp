@@ -32,12 +32,6 @@ void printArray(int C[], int n){
     cout << endl;
 }
 
-
-int size(){
-    return 100;
-    //return 1000
-}
-
 int main(){
     int C[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
     cout << "CURRENT ARRAY: " << endl;
