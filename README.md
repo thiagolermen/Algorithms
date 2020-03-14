@@ -6,7 +6,7 @@
 ## Mathematics
 
 ## Graph Theory
-* [Dijkstra's Shortest Path (priority queue)](https://github.com/thiagolermen/Algorithms/blob/master/src/graph-theory/DijkstrasShortestPath.cpp)
+* [Dijkstra's Shortest Path (priority queue)](https://github.com/thiagolermen/Algorithms/blob/master/src/graph-theory/DijkstrasShortestPath.cpp) - **O(|V| + |E| log|V|)**
 
 ## Linear Algebra
 * [Transpose Of A Matrix](https://github.com/thiagolermen/Algorithms/blob/master/src/linear-algebra/TransposeOfAMatrix.cpp)
