@@ -16,4 +16,5 @@
 ## Data Structures
 ## Sorting Algorithms
 * [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - **O(n²)**
+* [Binary Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/BinaryInsertionSort.cpp) - **O(n²)**
 ## Data Structures
