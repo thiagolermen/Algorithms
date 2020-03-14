@@ -14,5 +14,5 @@
 ## Search Algorithms
 
 ## Sorting Algorithms
-* [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - <img src="https://latex.codecogs.com/gif.latex?O(n^2)"/> 
+* [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - **O(n²)**
 ## Data Structures
