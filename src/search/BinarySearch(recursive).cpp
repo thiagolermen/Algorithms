@@ -1,10 +1,26 @@
+/*
+    Binary Search Algorithm (recursive)
+    Author: Thiago Sotoriva Lermen
+    Complexity: 0(log n)
+
+    Definition by Wikipedia:
+    In computer science, binary search, also known as half-interval search, 
+    logarithmic search, or binary chop,[3] is a search algorithm that finds 
+    the position of a target value within a sorted array. Binary search compares 
+    the target value to the middle element of the array. If they are not equal, 
+    the half in which the target cannot lie is eliminated and the search continues 
+    on the remaining half, again taking the middle element to compare to the target 
+    value, and repeating this until the target value is found. If the search ends 
+    with the remaining half being empty, the target is not in the array. 
+    Font: https://en.wikipedia.org/wiki/Binary_search_algorithm
+*/
 #include <iostream>
 
 using namespace std;
 
 // A recursive binary search function
 // Returns location of x in given array
-// C[l..r] ix present, otherwise -1
+// C[l..r] if present, otherwise -1
 int binarySearch(int C[], int l, int r, int x){
     if(r >= 1){
         int mid = l + (r-1)/2;
