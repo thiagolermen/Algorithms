@@ -19,7 +19,7 @@
 * [Binary Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/BinaryInsertionSort.cpp) - **O(n²)**
 * [Shell Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/ShellSort.cpp) - **Θ(n*log n)**
 * [Heapsort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/HeapSort.cpp) - **O(n*log n)**
-* [Selection Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/SelectionSort.cpp) - **O(n2)**
+* [Selection Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/SelectionSort.cpp) - **O(n²)**
 * [Merge Sort Top-Down](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSort.cpp) - **Θ(n*log n)** 
 * [Merge Sort Bottom-Up](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSortBottomUp.cpp) - **Θ(n*log n)** 
 
