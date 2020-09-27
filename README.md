@@ -18,5 +18,6 @@
 * [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - **O(n²)**
 * [Binary Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/BinaryInsertionSort.cpp) - **O(n²)**
 * [Shell Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/ShellSort.cpp) - **Θ(n*log n)**
+* [Heapsort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/HeapSort.cpp) - **O(n*log n)**
 
 ## Data Structures
