@@ -21,5 +21,6 @@
 * [Heapsort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/HeapSort.cpp) - **O(n*log n)**
 * [Selection Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/SelectionSort.cpp) - **O(n2)**
 * [Merge Sort Top-Down](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSort.cpp) - **Θ(n*log n)** 
+* [Merge Sort Bottom-Up](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSortBottomUp.cpp) - **Θ(n*log n)** 
 
 ## Data Structures
