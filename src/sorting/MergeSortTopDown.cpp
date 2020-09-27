@@ -1,5 +1,5 @@
 /*
-    Merge Sort Algorithm
+    Merge Sort Top-Down Algorithm
     Author: Thiago Sotoriva Lermen
     Complexity: Θ(n*log n)
 */
