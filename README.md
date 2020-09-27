@@ -13,7 +13,6 @@
 
 ## Search Algorithms
 * [Binary Search (recursive)](https://github.com/thiagolermen/Algorithms/blob/master/src/search/BinarySearch(recursive).cpp) - **O(log n)**
-## Data Structures
 ## Sorting Algorithms
 * [Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/InsertionSort.cpp) - **O(n²)**
 * [Binary Insertion Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/BinaryInsertionSort.cpp) - **O(n²)**
