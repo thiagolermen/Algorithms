@@ -36,12 +36,13 @@ void printArray(int C[], int n){
 }
 
 int main(){
-    int C[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
+    int a[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
+    int a_size = sizeof(a) / sizeof(a[0]);
     cout << "CURRENT ARRAY: " << endl;
-    printArray(C, 10);
+    printArray(a, a_size);
     cout << "SORTED ARRAY: " << endl;
-    shellSort(C, 10);
-    printArray(C, 10); 
+    shellSort(a, a_size);
+    printArray(a, a_size); 
 
     return 0;
 }
