@@ -21,5 +21,6 @@
 * [Selection Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/SelectionSort.cpp) - **O(n²)**
 * [Merge Sort Top-Down](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSort.cpp) - **Θ(n*log n)** 
 * [Merge Sort Bottom-Up](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/MergeSortBottomUp.cpp) - **Θ(n*log n)** 
+* [Quicksort using Lomuto's partition](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/QuickSortLomutoPartitioning.cpp) - **Θ(n*log n)** 
 
 ## Data Structures
