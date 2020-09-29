@@ -3,6 +3,17 @@
 
 ## Running an algorithm
 
+## Data Structures
+* [Binary Search Tree]()
+* [Balanced Trees]()
+  * [AVL Tree]()
+  * [Red-Black Tree]()
+* [Splay Tree]()
+* [Hash Table]()
+* [Linked List]()
+* [Stack]()
+* [Priority Queue]()
+
 ## Mathematics
 
 ## Graph Theory
@@ -26,14 +37,4 @@
 * [Counting Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/CountingSort.cpp) - **O(n+k)** 
 * [Radix Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/RadixSort.cpp) - **O(n*w)**
 
-## Data Structures
-* [Binary Search Tree]()
-* [Balanced Trees]()
-  * [AVL Tree]()
-  * [Red-Black Tree]()
-* [Splay Tree]()
-* [Hash Table]()
-* [Linked List]()
-* [Stack]()
-* [Priority Queue]()
 
