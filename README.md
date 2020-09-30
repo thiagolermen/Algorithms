@@ -36,5 +36,6 @@
 * [Quicksort using Hoare's partition](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/QuickSortHoarePartitioning.cpp) - **Θ(n*log n)**
 * [Counting Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/CountingSort.cpp) - **O(n+k)** 
 * [Radix Sort (LSD)](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/RadixSort.cpp) - **O(n*w)**
+* [Radix Sort (MSD String Sort)]() - **O(n*w)**
 
 
