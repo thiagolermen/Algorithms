@@ -33,7 +33,6 @@ void insertionSort(vector<float> a, int n){
 }
 
 
-// b[i] = vector<float>
 void bucketSort(float a[], int n){
 
     // n empty buckets
