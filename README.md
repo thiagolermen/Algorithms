@@ -37,5 +37,6 @@
 * [Counting Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/CountingSort.cpp) - **O(n+k)** 
 * [Radix Sort (LSD)](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/RadixSortLSD.cpp) - **O(n*w)**
 * [Radix Sort (MSD String Sort)](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/RadixSortMSD.cpp) - **O(n*w)**
+* [Bucket Sort](https://github.com/thiagolermen/Algorithms/blob/master/src/sorting/BucketSort.cpp) - **O(n)**
 
 
