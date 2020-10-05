@@ -12,7 +12,7 @@
 * [Hash Table]()
   * [Hastable (Linear Probing)]()
   * [Hastable (Quadratic Probing)]()
-  * [Hastable (Double Probing)]()
+  * [Hastable (Double Hashing)]()
 * [Linked List]()
 * [Stack]()
 * [Priority Queue]()
