@@ -13,6 +13,7 @@
   * [Hastable (Linear Probing)]()
   * [Hastable (Quadratic Probing)]()
   * [Hastable (Double Hashing)]()
+  * [Hashtable (Separate Chaining)]()
 * [Linked List]()
 * [Stack]()
 * [Priority Queue]()
