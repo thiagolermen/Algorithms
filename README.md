@@ -13,7 +13,7 @@
   * [Hashtable (Linear Probing)]()
   * [Hashtable (Quadratic Probing)]()
   * [Hashtable (Double Hashing)]()
-  * [Hashtable (Separate Chaining)]()
+  * [Hashtable (Separate Chaining)](https://github.com/thiagolermen/Algorithms/blob/master/src/data-structures/hash-table/SeparateChaining.cpp)
 * [Linked List]()
 * [Stack]()
 * [Priority Queue]()
