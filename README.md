@@ -10,7 +10,7 @@
   * [Red-Black Tree]()
 * [Splay Tree]()
 * [Hash Table]()
-  * [Hashtable (Linear Probing)]()
+  * [Hashtable (Linear Probing)](https://github.com/thiagolermen/Algorithms/blob/master/src/data-structures/hash-table/LinearProbing.cpp)
   * [Hashtable (Quadratic Probing)]()
   * [Hashtable (Double Hashing)]()
   * [Hashtable (Separate Chaining)](https://github.com/thiagolermen/Algorithms/blob/master/src/data-structures/hash-table/SeparateChaining.cpp)
